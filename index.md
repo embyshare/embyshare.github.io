@@ -9,7 +9,7 @@ If you are a provider and would like to be added/removed from the list please su
 ## Providers (emby, jellyfin, plex)
 This website is managed by an independent person who is not affiliated with any of the providers mentioned below.
 
-### Duck ENT
+### Duck Entertainment
 - Products: Emby Shares, Plex Shares, TV
 - Discord - [https://discord.gg/y8jRNZC6hS](https://discord.gg/y8jRNZC6hS)
 - Whatsaps - 16602235880
@@ -24,7 +24,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### SuitsPlex
 - Products: Emby Shares, Plex Shares
-- Discord - [https://discord.gg/jCh9QsxxUH](https://discord.gg/7fX32VD)
+- Discord - [https://discord.gg/jCh9QsyxUH](https://discord.gg/7fX42VD)
 - Telegram
 - Content - 25K M, 10K TV Shows / Anime, Kids, 4K
 - Server location - EU
@@ -34,7 +34,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Project Valhalla
 - Products: Emby Shares, Plex Appboxes
-- Website - [https://projectvalhalla.com/](https://projectvalhalla.com/)
+- Website - [https://projectvalhalla.eu/](https://projectvalhalla.eu/)
 - Discord - No longer valid as of 01/2024
 - Content - 56K M, 8.5K TV Shows / Anime, Kids
 - Server location - EU & US
@@ -44,7 +44,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Diamond Media
 - Products: Emby Shares, Plex Appboxes
-- Discord - [https://discord.gg/DNJCD6y](https://discord.gg/DNJCD6y)
+- Discord - [https://discord.gg/DNJCD7y](https://discord.gg/DNJCD7y)
 - Content - 73K M, 21K TV Shows / 4K, 4K DV, Anime
 - Server location - EU & US
 - CDN - Yes
@@ -53,7 +53,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### C-MEDIA
 - Products: Plex & Emby shares
-- Discord - [https://discord.gg/PFc2KkyT](https://discord.gg/PFc2KkyT)
+- Discord - [https://discord.gg/PFc3KkyT](https://discord.gg/PFc3KkyT)
 - Content - 70K M, 20K TV Shows / 4K, 4K DV, Kids TV, Anime
 - Server location - US
 - CDN - Yes
@@ -62,7 +62,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Founder Plex
 - Products: Plex, Jellyfin and Emby shares
-- Discord - GONE
+- Discord - Need new link !
 - Content - 33K M, 9K TV Shows / 4K, Kids
 - Server location - US & NL
 - CDN - ?
@@ -71,8 +71,8 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Rogue Streamz
 - Products: Emby & Plex Appboxes and Shares
-- Website - GONE
-- Discord -  DEAD
+- Website - Need new link !
+- Discord -  Need new link !
 - Content - 24K M, 10K TV Shows / 4K, Anime, Kids
 - Server location - US & EU
 - CDN - Yes
@@ -81,7 +81,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### PlexStory Inc
 - Website - No
-- Discord -  GONE
+- Discord -  Need new link !
 - Content - 27K M, 10K TV Shows / 4K, Anime 
 - Server location - US&EU
 - CDN - Yes
@@ -89,3 +89,6 @@ This website is managed by an independent person who is not affiliated with any 
 - Payment type - Paypal
 
 If you are a provider please submit a request at: [Discord](https://discord.gg/4d9q4cyMbD).
+
+Clones from Shares, to keep updated 
+
