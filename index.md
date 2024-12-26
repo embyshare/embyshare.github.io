@@ -11,7 +11,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Duck Entertainment
 - Products: Emby Shares, Plex Shares, TV
-- Discord - [https://discord.iduck.xyz]([https://discord.gg/y8jRNZC6hS](https://discord.iduck.xyz/?mtm_campaign=Discord%20link))
+- Discord - [https://discord.iduck.xyz](https://discord.iducd.xyz)
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
 - Content - 30K M, 30K TV Shows / Anime, Kids, Spanish, hindi, XXX 4K
