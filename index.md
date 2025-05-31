@@ -1,4 +1,4 @@
-## Welcome to EmbyShares UPDATED 03/02/25
+## Welcome to EmbyShares UPDATED 05/31/25
 
 r/EmbyShares was the biggest Reddit community where you could choose a plex provider. The r/EmbyShares Reddit has been closed on 05/19/2022.
 
@@ -14,7 +14,7 @@ This website is managed by an independent person who is not affiliated with any 
 - Discord - [https://discord.ducktv.ing](https://discord.ducktv.ing)
 - Whatsaps - 16602235880
 - Website - [Duck](http://www.ducktv.ing)
-- Content - 30K M, 30K TV Shows / Anime, Kids, Spanish, hindi, XXX 4K
+- Content - 40K M, 400K TV Shows / Anime, Kid, hindi, XXX, 4K, Bollywood 
 - Server location - EU  US 
 - CDN - US, EU [map](https://media.discordapp.net/attachments/1320516916359598173/1320516917017968690/Screenshot_2024-12-22_at_4.21.40_PM.png?ex=676e7ff7&is=676d2e77&hm=36dbe68d2fde57803455b3dd55c9a3d7a5724c5186176fc2a3568383067b0d3d&)   http://speedtest.ducktv.ing
 - Prices - 8$/month, multiple plans  50% off for new users
@@ -49,15 +49,6 @@ This website is managed by an independent person who is not affiliated with any 
 - Server location - EU & US
 - CDN - Yes
 - Prices - 10$/month, multiple plans
-- Payment type - Paypal, Crypto
-
-### C-MEDIA
-- Products: Plex & Emby shares
-- Discord - [https://discord.gg/PFc3KkyT](https://discord.gg/PFc3KkyT)
-- Content - 70K M, 20K TV Shows / 4K, 4K DV, Kids TV, Anime
-- Server location - US
-- CDN - Yes
-- Prices - $15/m 1 stream, aditional streams at 5$
 - Payment type - Paypal, Crypto
 
 ### Founder Plex
