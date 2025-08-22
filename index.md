@@ -11,7 +11,7 @@ This website is managed by an independent person who is not affiliated with any 
 
 ### Duck Entertainment
 - Products: Emby Shares, Plex Shares, TV
-- Discord - [https://discord.gg/y8jRNZC6hS](https://discord.com/servers/duck-entertainment-759635175302365194)
+- Discord - [link here](https://discord.idcuk.xyz)
 - Speedtest [http://speedtest.iduck.xyz](http://speedtest.iduck.xyz)
 - Website - [Duck](http://www.ducktv.ing)
 - Content - 40K M, 400K TV Shows / Anime, Kid, hindi, XXX, 4K, Bollywood 
