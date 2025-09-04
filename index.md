@@ -42,6 +42,15 @@ This website is managed by an independent person who is not affiliated with any 
 - Prices - 7€/month, multiple plans available
 - Payment type - PayPal 
 
+### Ecomanic
+- Products: Emby
+- Discord: https://discord.gg/xhhutKQwB4
+- Content: 4K / 4K DV / 4K Remux / Anime / Bollywood / Fitness / Foreign / Indian / Kids / Sports Films/TV
+- Server location: EU
+- CDN: Yes
+- Prices: €7
+- Payment type: PayPal
+
 ### Diamond Media
 - Products: Emby Shares, Plex Appboxes
 - Discord - [https://discord.gg/DNJCD7y](https://discord.gg/DNJCD7y)
