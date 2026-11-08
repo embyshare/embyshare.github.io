@@ -1,4 +1,4 @@
-## Welcome to EmbyShares UPDATED 08/21/25
+## Welcome to EmbyShares UPDATED 11/08/26
 
 r/EmbyShares was the biggest Reddit community where you could choose a plex provider. The r/EmbyShares Reddit has been closed on 05/19/2022.
 
@@ -12,8 +12,8 @@ This website is managed by an independent person who is not affiliated with any 
 ### Duck Entertainment
 - Products: Emby Shares, Plex Shares, TV
 - Website - [Duck](http://www.ducktv.ing)
-- Content - 40K M, 400K TV Shows / Anime, Kid, hindi, XXX, 4K, Bollywood 
-- Server location - EU  US 
+- Content - 40K M, 400K TV Shows / Anime, Kid, XXX, 4K
+- Discord - [Discord](https://discord.gg/77Je4GWvz2)  
 - CDN - US, EU [map](https://media.discordapp.net/attachments/1320516916359598173/1320516917017968690/Screenshot_2024-12-22_at_4.21.40_PM.png?ex=676e7ff7&is=676d2e77&hm=36dbe68d2fde57803455b3dd55c9a3d7a5724c5186176fc2a3568383067b0d3d&)   http://speedtest.ducktv.ing
 - Prices - 8$/month, multiple plans  50% off for new users
 - Payment type - Paypal, Crypto, Credit card
